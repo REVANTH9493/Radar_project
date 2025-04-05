@@ -47,4 +47,4 @@ Original code by Dejan Nedelkovski
 
 macOS compatibility adapted by Niam Moltta
 
-Minor tweaks and documentation by [Your Name]
+Minor tweaks and documentation by [N. Revanth]
